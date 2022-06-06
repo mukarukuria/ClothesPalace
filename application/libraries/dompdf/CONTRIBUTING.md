@@ -27,7 +27,7 @@ Questions should be asked through
 
 - dompdf is maintained by volunteers. They don't owe you anything, so be
   polite. Reports with an indignant or belligerent tone tend to be moved to the
-  bottom of the pile.
+  bottom of the pile. 
 
 - Include information about **the PHP version on which the problem occurred**. Even
   if you tested several PHP version on different servers, and the problem occurred

@@ -48,7 +48,6 @@
                     <i class= "fa fa-facebook"></i>
                     <i class="fa fa-google" data-onsuccess="onSignIn"></i>
                 </div>
-                
             </div>
         </div>
     </div>

@@ -23,7 +23,6 @@
                 <td><?= $item['subtotal'] ?></td>
                 <td><a class="btn btn-danger btn-sm" href="<?= base_url('Home/removecart/'.$item['rowid']);?>">Remove</a></td>
             </tr>
-                
             <?php endforeach;?>
             <tr>
                 <td></td>
@@ -36,7 +35,6 @@
             </tr>
             <?php } ?>
         </tbody>
-        
     </table>
     <div class="col-12">
             
@@ -46,6 +44,5 @@
             <?php }else { ?>
                 <div class="alert alert-danger text-center" >You have nothing in your Cart <a href="<?=base_url('products/'.$_SESSION['id']);?>" class="alert-link">Go Back to Shopping</a></div>
             <?php }?>
-            
     </div>
 </div>

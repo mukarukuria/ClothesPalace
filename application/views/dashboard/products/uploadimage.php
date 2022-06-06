@@ -61,6 +61,5 @@
         <div class="col-4">
             <img src="<?php echo base_url(); ?>assets/pictures/signup.jpg" alt="" width="400" height="600">
         </div>
-        
     </div>
 </div>

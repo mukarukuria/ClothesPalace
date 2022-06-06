@@ -123,8 +123,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                             <a class="nav-link" href="<?=base_url("user/register")?>">Register</a>
                                         </nav>
                                     </div>
-                                    
-                                   
                                 </nav>
                             </div>
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseAPI" aria-expanded="false">

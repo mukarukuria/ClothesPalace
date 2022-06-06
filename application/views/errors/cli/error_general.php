@@ -6,3 +6,4 @@ echo "\nERROR: ",
 	"\n\n",
 	$message,
 	"\n\n";
+	

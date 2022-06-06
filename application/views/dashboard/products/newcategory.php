@@ -60,7 +60,6 @@
                                     <tbody>
                                         <?php foreach ($categories as $item) : ?>
                                         <tr>
-                                            
                                             <td><?=$item->category_name?></td>
                                             <td><?=$item->subcategory_name?></td>
                                             <td>

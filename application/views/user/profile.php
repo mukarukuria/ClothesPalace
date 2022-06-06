@@ -57,7 +57,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                
                             </div>
                             <small><?=form_error('confirm')?></small>
                             <div class="modal-footer">

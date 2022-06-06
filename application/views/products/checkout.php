@@ -159,7 +159,6 @@
                                               </label> <input type="text" required class="form-control"> </div>
                                       </div>
                                   </div>
-
                               </form>
                               <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Go Back</button>

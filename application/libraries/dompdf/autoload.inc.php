@@ -11,7 +11,7 @@
 //FIXME: replace with masterminds HTML5
 //require_once __DIR__ . '/lib/html5lib/Parser.php';
 
-// Sabberworm
+// Sabberworm 
 spl_autoload_register(function($class)
 {
     if (strpos($class, 'Sabberworm') !== false) {

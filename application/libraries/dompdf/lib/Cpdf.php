@@ -205,6 +205,7 @@ class Cpdf
      */
     public $looseObjects = [];
 
+    
     /**
      * array contains information about how the loose objects are to be added to the document
      */

@@ -41,7 +41,6 @@
                                         </tr>
                                     </tfoot>
                                     <tbody>
-                                     
                                     <?php foreach($orderdetails as$items): ?>
                                         <tr>
                                             <td><?=$items->order_id?></td>

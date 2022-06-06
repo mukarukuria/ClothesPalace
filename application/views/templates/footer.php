@@ -6,7 +6,6 @@
         <img src="<?php echo base_url(); ?>assets/pictures/logo2.png" alt="" width="300" height="150">
                 
         </div>
-
             <!-- section-two -->
         <div class="col">
             <h5>Support</h5>

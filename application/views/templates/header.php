@@ -65,7 +65,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <a href="<?=base_url('user/register')?>" class="btn btn-primary">Sign-up</a>
           </div>
           <?php }; ?>
-        
       </header>  
     </nav>
   </div>

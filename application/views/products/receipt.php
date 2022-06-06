@@ -22,7 +22,6 @@
                         <p><span class="text-muted">Payment Method </span> <span class="float-end"><?=$item->paymenttype_name?></span></p>
                         <?php endforeach; ?>
                     </div>
-                    
                 </div>
             </div>
             <div class="card shadow">
