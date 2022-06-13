@@ -171,13 +171,17 @@
                               
                           </div>
                           <div class="tab-pane fade" id="nav-contact">
+                              <img src="<?=base_url()?>assets/pictures/m-pesa_logo.png" alt="" class="w-25">
                               <h6 class="pb-2">Input your M-pesa number</h6>
-                              <div class="form-group "><input type="text" class="form-control"></div>
-                              <p class="text-muted w-100"> Note: After clicking on the button, you will be directed to a secure gateway for payment. After completing the payment process, you will be redirected back to the website to view details of your order. </p>
-                              <div class="modal-footer">
-                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Go Back</button>
-                                <button type="button" class="btn btn-success">Buy</button>
-                              </div>
+                              <form action="#" method="post">
+                                   <div class="form-group "><input type="text" class="form-control"></div>
+                                <p class="text-muted w-100"> Note: After clicking on the button, you will be directed to a secure gateway for payment. After completing the payment process, you will be redirected back to the website to view details of your order. </p>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Go Back</button>
+                                    <button type="submit" class="btn btn-success">Buy</button>
+                                </div>
+                              </form>
+                             
                           </div>
                           <div class="tab-pane fade" id="nav-payment">
                               
